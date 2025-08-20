@@ -49,3 +49,53 @@ While exploring the Figma file for this project, we identified the following des
 ### Why This Matters
 Identifying colors, fonts, and sizes early on makes sure the design stays consistent across the whole application. Without this step, different team members might pick slightly different shades or font sizes, and the app would feel messy or unpolished. By sticking to the same design properties from the mockup, we save time, keep the UI clean, and ensure the final product looks professional and easy to use.
 .
+
+
+## Project Roles and Responsibilities
+
+Building a full-stack application like this takes teamwork. To keep everything organized, we’ve broken down the main roles and what each one brings to the table:
+
+### 👩‍💼 Project Manager
+- Keeps track of deadlines and deliverables.  
+- Coordinates communication between team members.  
+- Makes sure the project moves forward smoothly without losing focus.  
+
+### 💻 Frontend Developers
+- Implement the user interface based on the Figma designs.  
+- Build reusable UI components (navbar, property cards, forms, etc.).  
+- Ensure the app looks good on all devices through responsive design.  
+
+### ⚙️ Backend Developers
+- Set up the database and server-side logic.  
+- Build APIs that handle authentication, property listings, and bookings.  
+- Make sure data is secure and the system performs efficiently.  
+
+### 🎨 Designers
+- Define the visual language: colors, typography, layouts.  
+- Maintain design consistency across all screens.  
+- Work closely with frontend devs to turn mockups into reality.  
+
+### 🧪 QA / Testers
+- Write test cases and test different features of the app.  
+- Catch bugs before they reach production.  
+- Ensure the overall experience is reliable and smooth.  
+
+### 🚀 DevOps Engineers
+- Handle deployment and hosting of the app.  
+- Set up CI/CD pipelines for automatic builds and testing.  
+- Monitor performance and keep everything running in production.  
+
+### 🧭 Product Owner
+- Represents the stakeholders and end users.  
+- Defines requirements and priorities for features.  
+- Makes sure the final product aligns with the project vision.  
+
+### 🌀 Scrum Master
+- Facilitates stand-ups and sprint planning sessions.  
+- Helps remove blockers that slow the team down.  
+- Keeps the team aligned with agile practices.  
+
+---
+
+### Why Roles Matter
+Clear responsibilities prevent overlap and confusion. Each role ensures a different part of the project is handled properly — from design to code, testing to deployment. Together, these roles create a workflow that allows the team to deliver a professional, working product on time.
