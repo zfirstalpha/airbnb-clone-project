@@ -99,3 +99,31 @@ Building a full-stack application like this takes teamwork. To keep everything o
 
 ### Why Roles Matter
 Clear responsibilities prevent overlap and confusion. Each role ensures a different part of the project is handled properly — from design to code, testing to deployment. Together, these roles create a workflow that allows the team to deliver a professional, working product on time.
+
+
+## UI Component Patterns
+
+To keep the frontend consistent and reusable, we’ve planned a few core UI components that will be used across the application:
+
+### 🔝 Navbar
+- Displays the logo and main navigation links.  
+- Includes a search bar for quick property lookups.  
+- Has a responsive menu that adapts to mobile screens.  
+- Provides user account options (login, profile, logout).  
+
+### 🏠 Property Card
+- Shows a property image and key details (price, location, rating).  
+- Includes a “favorite” or “save” button for users.  
+- Uses a responsive grid layout so it looks good on any screen size.  
+- Designed to be reused in the property listing view.  
+
+### 📑 Footer
+- Contains useful links (About, Contact, Terms, etc.).  
+- Displays company info and social media links.  
+- Includes copyright details.  
+- Remains consistent across all pages for familiarity.  
+
+---
+
+### Why Component Patterns Matter
+Reusable components save development time, reduce errors, and keep the design consistent across the site. By defining patterns like the Navbar, Property Card, and Footer early, the team can work in parallel and build features faster without worrying about design drifting apart.
